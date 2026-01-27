@@ -1,3 +1,9 @@
+busybox (1:1.36.1-7deepin1) unstable; urgency=medium
+
+  * fix CVE-2023-39810 
+
+ -- zengwei <zengwei1@uniotech.com>  Tue, 27 Jan 2026 15:49:28 +0800
+
 busybox (1:1.36.1-7) unstable; urgency=medium
 
   * udeb: remove all modutils (kmod-udeb provides better alternatives)

@@ -21,3 +21,4 @@ syslogd-option_mask32.patch
 syslogd-make-it-optionally-systemd-socket-activated.patch
 #
 install-fix-chown-resetting-suid-sgid-bits-from-chmod.patch
+CVE-2023-39810.patch
